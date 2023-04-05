@@ -2,7 +2,10 @@ name = input("이름을 입력하세요: ")
 student_id = input("학번을 입력하세요: ")
 major = input("학과를 입력하세요: ")
 univ = input("학교를 입력하세요: ")
+<<<<<<< HEAD
 
+=======
+>>>>>>> ossp1
 
 print("<출력>")
 print("이름:", name)
